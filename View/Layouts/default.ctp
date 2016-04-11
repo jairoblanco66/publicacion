@@ -24,7 +24,9 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 	<div id="container">
 		<div id="header">
 			<h1>Sistema de autenticación de usuarios </h1>
-		</div>
+			<h2>Jairo Blanco </h2>
+
+			</div>
 		<div id="content">
 
 			<?php echo $this->Session->flash(); ?>
